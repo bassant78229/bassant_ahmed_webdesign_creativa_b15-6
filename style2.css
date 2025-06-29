@@ -1,0 +1,56 @@
+section{
+    background-color: darkblue;
+    padding: 5%;
+}
+h1{
+    color: white;
+}
+i{
+    color: white;
+}
+.header{
+    display: flex;
+    align-items: center;
+}
+ 
+ .row{
+    display: flex;
+    justify-content: space-between;
+ }
+ .form{
+    background-color: white;
+    width: 33%;
+    padding:3% ;
+ }
+ #but{
+    background-color: darkblue;
+    text-align: center;
+    padding: 3%;
+    width: 80%;
+    color: white;
+}
+ 
+ .button{
+    text-align: center;
+ }
+ .top{
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-between;
+ }
+ .padge{
+    display: flex;
+ } 
+ p{
+    color: white;
+}
+.w-40{
+ width: 46%;
+}
+.fares{
+    padding-top: 3%;
+    padding-left: 3%;
+    width: 99%;
+    flex-wrap: wrap;
+    display: flex;
+}
