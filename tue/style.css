@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    
+    perspective: 1000px;
+    
+}
+.card{
+    width: 500px;
+    height: 500px;
+    margin: 10% auto;
+    
+}
+    .p2{
+        width: 500px;
+        height: 500px;
+        background-color: rgb(0, 238, 255);
+        color: white;
+        position: absolute;
+        transform: rotate(30deg);
+        top: 0px;
+    }
+    .p3{
+        width: 500px;
+        height: 500px;
+        background-color:yellow;
+        position: absolute;
+        transform: rotate(50deg);
+        top: 0px;
+    }
+    .cover{
+        width: 500px;
+        height: 500px;
+        background-color: rgb(0, 21, 255);
+        position: relative;
+    }
+
+
+
+
